@@ -22,4 +22,7 @@ public class Product {
     private Supplier supplier;
 
 
+    public void setId(Long id) {
+        this.id = id;
+    }
 }
